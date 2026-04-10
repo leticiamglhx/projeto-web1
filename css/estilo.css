@@ -1,0 +1,158 @@
+*{
+    font-family: sans-serif;
+}
+
+    body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: sans-serif;
+    
+    
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+header ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.meioA{
+    box-sizing: border-box;
+    align-items: center;
+    position: relative;
+
+}
+.meioA a{
+    position: absolute;
+    bottom: 5px;
+    width: 100px;
+    right: 27px;
+    font-size: .8em;
+    
+
+}
+
+
+header{
+    padding: 50px;
+    background-color: rgb(34, 20, 3);
+    
+}
+li{
+    color: aliceblue;
+    margin: 15px;
+
+}
+.menu{
+    text-align: center;
+   background-color: rgb(175, 55, 79);
+   padding: 15px;
+}
+h2{
+    color: black;
+    text-align: center;
+
+}
+.welcome {
+    margin: 0;
+    padding: 15px;
+    background-color: rgb(2034, 96, 59);
+}
+.meio {
+    display:flex;
+    margin-top: 100px;
+    padding: 80px;
+    justify-content: space-around;
+    align-items: stretch;
+    gap: 40px;
+   
+
+}
+.meio a{
+    background-color:rgb(175, 55, 79);
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin:5px ;
+    border-radius: 5px;
+    align-items: stretch;
+
+
+}
+.meio p{
+    justify-content: center;
+    align-items: stretch;
+}
+
+
+.meioA{
+    height: 300px;
+    justify-content:;
+
+}
+
+.meio21{
+    display: flex;
+    /* border: 1px solid black; */
+    padding: 10px;
+    
+}
+.meio21 h3{
+    text-align: center;
+    padding: 10px;
+
+}
+.meio21 a{
+    background-color:rgb(175, 55, 79);
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    margin:5px ;
+    border-radius: 5px;
+    align-items: stretch;
+
+
+}
+
+div{
+    text-align:center;
+}
+section{
+    text-align: center;
+}
+footer{
+    padding: 50px;
+    text-align: center;
+    background-color:  rgb(34, 20, 3);
+    color: white;
+    margin-bottom: 0px;
+    
+    
+}
+footer ul{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+}
+
+footer i{
+    color: white;
+}
+footer p{
+    color
+}
+
+
